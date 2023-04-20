@@ -24,7 +24,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> My Resume <a href="https://drive.google.com/file/d/12MP7CYIogV8OFrJ-nXOUD72RB15xO8iZ/view?usp=share_link" rel="nofollow">Click Here</a></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> My Portfolio <a href="https://mayki21.github.io" rel="nofollow">Click Here</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> My Portfolio <a href="https://mayki21.github.io/" rel="nofollow">Click Here</a></p>
 </li>
 </ul>
 
@@ -34,7 +34,7 @@
 
 <a href="https://www.linkedin.com/in/mayank-kiran-khobragade-b732a616b/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-kiran" height="30" width="40" style="max-width: 100%;"></a> -->
  
-<a href="https://mayki21.github.io">Portfolio</a>
+<a href="https://mayki21.github.io/">Portfolio</a>
 
 
 
