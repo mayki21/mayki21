@@ -26,7 +26,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:mayank.khobragade9891@gmail.com">mayank.khobragade9891@gmail.com</a></strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> My Resume <a href="https://drive.google.com/file/d/1iZo63RgsHbWmLcIusDwu3WBkFJIVTAni/view?usp=sharing" rel="nofollow">Click Here</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> My Resume <a href="https://drive.google.com/file/d/1Br_JccIyf0bCe0OdJfrqKFTm5tBbnQqm/view?usp=sharing" rel="nofollow">Click Here</a></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> My Portfolio <a href="https://mayki21.github.io/" rel="nofollow">Click Here</a></p>
